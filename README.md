@@ -123,30 +123,6 @@ Oscilloscope / ADC / Embedded System
 
 ---
 
-## Repository Structure
-
-ECG-Signal-Acquisition/
-│
-├── README.md
-├── Circuit_Diagrams/
-├── LTspice_Simulations/
-├── Hardware_Images/
-├── Documentation/
-│   └── ECG_Project_Report.pdf
-├── Results/
-└── LICENSE
-
----
-
-## Team Members
-
-- Amisha Singh
-- Swapnil Saraswat
-- Ananya Kasaudhan
-- Pranjal Sharma
-
----
-
 ## License
 
 This project is developed for academic and educational purposes.
